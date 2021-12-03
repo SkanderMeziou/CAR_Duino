@@ -1,0 +1,20 @@
+Rapport de la première séance pour Skander 
+
+L'objectif de cette première séance était pour moi 
+De coder le lanceur de carte, j'ai donc occupé une
+Grande partie de la séance a comprendre pleinement 
+Le fonctionnement du servomoteur. Puis j'ai commencé 
+A faire quelques expérimentations sur son utilisation 
+Pour enfin lui faire faire des tours complets a des
+Intervalles réguliers. Lui permettant de lancer des
+Cartes régulièrement. Le code n'est néanmoins pas 
+Tout a fais complet puisque je suppose qu'il faudra 
+Le compléter après les premiers tests sur de vrais 
+Cartes. 
+
+Un autre enjeux plus global de cette première séance
+Etait de préciser le thème de notre sujet, pour 
+Augmenter la complexité du sujet nous avons décidé 
+D'ajouter une otpion de trieur au projet. Le distributeur 
+De cartes deviens maintenant distributeur/ trieur de 
+Cartes. 
